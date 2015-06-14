@@ -1,0 +1,21 @@
+---
+---
+
+* {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 512px;
+  padding: 8px 0 0 64px;
+}
+
+.posts {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post .date {
+  font-size: 12px;
+  padding-left: 4px;
+}
