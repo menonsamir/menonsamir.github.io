@@ -6,6 +6,7 @@ permalink: translation
 
 # Translation
 
+
 I started reading the logs, and I was amazed.
 
 I found people wishing happy holidays, sending inspirational quotes, comforting their friends, doing math homework, writing love letters, learning swear words, and more. The longest piece of text was a poorly written original poem, and the most translated word (that I can write here) was 'trigonometry'.
